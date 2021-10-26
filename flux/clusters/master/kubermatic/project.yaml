@@ -1,0 +1,8 @@
+apiVersion: kubermatic.k8s.io/v1
+kind: Project
+metadata:
+  name: w1d5bdmkas
+spec:
+  name: mla-demo
+status:
+  phase: Active
